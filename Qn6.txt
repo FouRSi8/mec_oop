@@ -1,0 +1,26 @@
+1)Write the days of week using switch statement
+2)Write a java program to check whether a given number is palindrome or not using while loop
+3)Write a java program to add numbers until the user enters zero(0) using do-while loop
+4)Write a java program to display Floyd's Triangle using for-loop
+
+5)Write a java program to display transverse of a given matrix use arrays and for each version of for-loop)
+6)Write a java program to find second smallest element in an array
+
+Cycle 2
+1)Write a java program to multiply 2 given matrices
+2)Write a java program to check whether a given number is prime or not
+3)Design a class to represent a bank account:
+	Include following members:
+	Name of the depositor
+	Account number
+	Type of account
+	Balance amount in the account
+
+	Methods;
+	To assign initial values
+	To deposit an amount
+	To Withdraw an amount after checking balance
+	To display name and balance
+Cycle 3
+1)Create a class named 'Patient' that includes an ID number, age, and BloodData. Provide a default constructor that sets the ID number to 0, the age to 0, and the BloodData values to 0 and 1.
+Create a ovrloaded constructor that provides values for each field. Also provide get methods for each field. Create another class 'TestPatient' that demonstrates that each method works correctly.
